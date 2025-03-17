@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to Pisces Climate Solutions
+
+This is the official github repository for Pisces Climate Solutions. The tools listed in this repository include:
+- Greenhouse gases (GHG) emissions calculator
+- Critical air polutants (CAP) emissions calculator
 
 <!--
 **PiscesClimate/PiscesClimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
