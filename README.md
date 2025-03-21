@@ -3,6 +3,7 @@
 This is the official github repository for Pisces Climate Solutions. The tools listed in this repository include:
 - Greenhouse gases (GHG) emissions calculator
 - Critical air polutants (CAP) emissions calculator
+- Fleet Transition Tool (FTT)
 
 ## About Us
 Pisces Climate Solutions is dedicated to developing tools and resources with the goal of improving climate-related infrastructure.
