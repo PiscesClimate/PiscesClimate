@@ -6,7 +6,7 @@ This is the official github repository for Pisces Climate Solutions. The tools l
 - Fleet Transition Simulator (FTS)
 
 ## About Us
-Pisces Climate Solutions is dedicated to developing tools and resources with the goal of improving climate-related infrastructure.
+Pisces Climate Solutions is dedicated to developing tools and resources with the goal of improving climate-related infrastructure. Tools released on the Pisces platform are aimed to be user-friendly and accessible to the public. Any suggestions or questions should be directed towards the Pisces support team.
 
 
 <!--
